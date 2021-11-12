@@ -155,7 +155,6 @@ section {
     border-color: #fce138;
     display: inline-block;
 }
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -172,7 +171,7 @@ section {
 .section-title {
     font-size: 48px;
     color: #024e76;
-    margin-bottom: 35px;
+    border-bottom: 3px solid;
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto 35px auto;
@@ -200,7 +199,7 @@ section {
 
 .step h3 {
     color: #024e76;
-    font-size: 36px;
+    font-size: 46px;
     flex: 1 30%;
 }
 
@@ -229,7 +228,7 @@ section {
 }
 
 .step-img img {
-    max-width: 55%;
+    max-width: 100%;
 }
 
 .trainer {
