@@ -203,6 +203,10 @@ section {
     flex: 1 30%;
 }
 
+.step-text {
+    flex: 12;
+}
+
 .step-text p {
     color: #39a6b2;
     font-size: 18px;
@@ -344,7 +348,7 @@ section {
 }
 
 .flex-row {
-    display:flex;
+    display: flex;
 }
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
